@@ -712,3 +712,113 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.28-21.36.45:320][268]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000179A6098F40), frame # 5268
 [2021.05.28-21.36.45:331][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
 [2021.05.28-21.36.45:363][269]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.28-21.37.27:389][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AnnyGame/BluePrints/Anny.Anny
+[2021.05.28-21.38.23:615][769]BlueprintLog: New page: Compile Anny
+[2021.05.28-21.38.23:697][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.05.28-21.38.23:782][769]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.28-21.38.24:208][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/BluePrints/Anny" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/BluePrints/Anny.uasset" SILENT=true
+[2021.05.28-21.38.24:271][799]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AnnyB231708F4529DC036110EF87149BE97A.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/BluePrints/Anny.uasset'
+[2021.05.28-21.38.24:289][799]AssetCheck: New page: Asset Save: Anny
+[2021.05.28-21.38.24:289][799]LogContentValidation: Display: Validating Blueprint /Game/AnnyGame/BluePrints/Anny.Anny
+[2021.05.28-21.38.25:058][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.05.28-21.39.37:713][421]BlueprintLog: New page: Compile GoblinMachado
+[2021.05.28-21.39.37:715][421]LogBlueprint: Warning: [Compiler GoblinMachado] 'Anny' does not inherit from 'Controller' ( Cast To Anny  would always fail).
+[2021.05.28-21.39.37:715][421]LogBlueprint: Error: [Compiler GoblinMachado] This blueprint (self) is not a Anny_C, therefore ' Target ' must have a connection.
+[2021.05.28-21.39.37:769][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.28-21.39.48:007][496]BlueprintLog: New page: Compile GoblinMachado
+[2021.05.28-21.39.48:009][496]LogBlueprint: Warning: [Compiler GoblinMachado] 'Anny' does not inherit from 'Controller' ( Cast To Anny  would always fail).
+[2021.05.28-21.39.48:059][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.05.28-21.40.06:078][424]BlueprintLog: New page: Compile GoblinMachado
+[2021.05.28-21.40.06:130][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.28-21.40.07:632][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Monstros/GoblinMachado" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Monstros/GoblinMachado.uasset" SILENT=true
+[2021.05.28-21.40.07:651][562]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/GoblinMachadoFAB420304BB6492D8DCF33995E8B5549.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Monstros/GoblinMachado.uasset'
+[2021.05.28-21.40.07:668][562]AssetCheck: New page: Asset Save: GoblinMachado
+[2021.05.28-21.40.07:668][562]LogContentValidation: Display: Validating Blueprint /Game/AnnyGame/Monstros/GoblinMachado.GoblinMachado
+[2021.05.28-21.40.08:192][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Monstros/GoblinMachado" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Monstros/GoblinMachado.uasset" SILENT=true
+[2021.05.28-21.40.08:205][601]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/GoblinMachado73968AA840CEDEB73C43008F22417BBC.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Monstros/GoblinMachado.uasset'
+[2021.05.28-21.40.08:216][601]AssetCheck: New page: Asset Save: GoblinMachado
+[2021.05.28-21.40.08:216][601]LogContentValidation: Display: Validating Blueprint /Game/AnnyGame/Monstros/GoblinMachado.GoblinMachado
+[2021.05.28-21.40.12:420][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.28-21.40.12:434][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-21.40.12:434][ 85]PIE: New page: PIE session: Map (May 28, 2021, 3:40:12 PM)
+[2021.05.28-21.40.12:434][ 85]LogPlayLevel: Creating play world package: /Game/AnnyGame/Maps/UEDPIE_0_Map
+[2021.05.28-21.40.12:455][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020473s)
+[2021.05.28-21.40.12:456][ 85]LogAIModule: Creating AISystem for world Map
+[2021.05.28-21.40.12:456][ 85]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000179A6043600), frame # 23085
+[2021.05.28-21.40.12:456][ 85]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017A15A9A840), frame # 23085
+[2021.05.28-21.40.12:456][ 85]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2021.05.28-21.40.12:456][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnnyGame/Maps/Map.Map to /Game/AnnyGame/Maps/UEDPIE_0_Map.Map (0.021818s)
+[2021.05.28-21.40.12:487][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.05.28-21.40.12:489][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-21.40.12:489][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-21.40.12:489][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-21.40.12:489][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-21.40.12:489][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-21.40.12:489][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-21.40.12:490][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-21.40.12:490][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-21.40.12:490][ 85]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-21.40.12:490][ 85]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-21.40.12:494][ 85]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-21.40.12:494][ 85]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-21.40.12:518][ 85]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.05.28-21.40.12:518][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-21.40.12:518][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-21.40.12:518][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-21.40.12:518][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-21.40.12:529][ 85]LogInit: FAudioDevice initialized.
+[2021.05.28-21.40.12:540][ 85]LogLoad: Game class is 'MyGameMode_C'
+[2021.05.28-21.40.12:542][ 85]LogWorld: Bringing World /Game/AnnyGame/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2021.05.28-18.40.12
+[2021.05.28-21.40.12:543][ 85]LogWorld: Bringing up level for play took: 0.002842
+[2021.05.28-21.40.12:543][ 85]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.28-21.40.12:547][ 85]PIE: Server logged in
+[2021.05.28-21.40.12:548][ 85]PIE: Play in editor total start time 0.114 seconds.
+[2021.05.28-21.40.15:762][468]LogBlueprintUserMessages: [GoblinMachado_9] 48.0
+[2021.05.28-21.40.15:770][469]LogBlueprintUserMessages: [GoblinMachado_9] 46.0
+[2021.05.28-21.40.15:779][470]LogBlueprintUserMessages: [GoblinMachado_9] 44.0
+[2021.05.28-21.40.16:270][529]LogBlueprintUserMessages: [GoblinMachado_9] 42.0
+[2021.05.28-21.40.16:278][530]LogBlueprintUserMessages: [GoblinMachado_9] 40.0
+[2021.05.28-21.40.16:287][531]LogBlueprintUserMessages: [GoblinMachado_9] 38.0
+[2021.05.28-21.40.16:295][532]LogBlueprintUserMessages: [GoblinMachado_9] 36.0
+[2021.05.28-21.40.16:304][533]LogBlueprintUserMessages: [GoblinMachado_9] 34.0
+[2021.05.28-21.40.16:312][534]LogBlueprintUserMessages: [GoblinMachado_9] 32.0
+[2021.05.28-21.40.16:320][535]LogBlueprintUserMessages: [GoblinMachado_9] 30.0
+[2021.05.28-21.40.16:329][536]LogBlueprintUserMessages: [GoblinMachado_9] 28.0
+[2021.05.28-21.40.16:337][537]LogBlueprintUserMessages: [GoblinMachado_9] 26.0
+[2021.05.28-21.40.16:345][538]LogBlueprintUserMessages: [GoblinMachado_9] 24.0
+[2021.05.28-21.40.16:354][539]LogBlueprintUserMessages: [GoblinMachado_9] 22.0
+[2021.05.28-21.40.16:362][540]LogBlueprintUserMessages: [GoblinMachado_9] 20.0
+[2021.05.28-21.40.17:244][646]LogBlueprintUserMessages: [GoblinMachado_9] 18.0
+[2021.05.28-21.40.17:253][647]LogBlueprintUserMessages: [GoblinMachado_9] 16.0
+[2021.05.28-21.40.17:261][648]LogBlueprintUserMessages: [GoblinMachado_9] 14.0
+[2021.05.28-21.40.17:270][649]LogBlueprintUserMessages: [GoblinMachado_9] 12.0
+[2021.05.28-21.40.17:278][650]LogBlueprintUserMessages: [GoblinMachado_9] 10.0
+[2021.05.28-21.40.17:286][651]LogBlueprintUserMessages: [GoblinMachado_9] 8.0
+[2021.05.28-21.40.17:295][652]LogBlueprintUserMessages: [GoblinMachado_9] 6.0
+[2021.05.28-21.40.18:278][770]LogBlueprintUserMessages: [GoblinMachado_9] 4.0
+[2021.05.28-21.40.18:287][771]LogBlueprintUserMessages: [GoblinMachado_9] 2.0
+[2021.05.28-21.40.18:295][772]LogBlueprintUserMessages: [GoblinMachado_9] 0.0
+[2021.05.28-21.40.20:014][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-21.40.20:014][974]LogWorld: BeginTearingDown for /Game/AnnyGame/Maps/UEDPIE_0_Map
+[2021.05.28-21.40.20:014][974]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-21.40.20:014][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-21.40.20:020][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-21.40.20:025][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-21.40.20:068][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-21.40.20:070][974]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000179A6043600), frame # 23974
+[2021.05.28-21.40.20:070][974]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017A15A9A840), frame # 23974
+[2021.05.28-21.40.20:072][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.28-21.40.20:108][975]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.28-21.41.28:205][ 17]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.05.28-21.41.28:855][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.28-21.41.28:984][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.28-21.41.29:010][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.28-21.41.29:094][ 88]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/Map1AD4B12349FABCDD85F6B8B11E06D7E1.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap'
+[2021.05.28-21.41.29:120][ 88]LogFileHelpers: Saving map 'Map' took 0.135
+[2021.05.28-21.41.29:120][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map_BuiltData" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset" SILENT=true
+[2021.05.28-21.41.29:357][ 88]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/Map_BuiltData4B720A69432A45DD597C1FB14F64C1CE.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset'
+[2021.05.28-21.41.29:360][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map_BuiltData" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset" SILENT=true
+[2021.05.28-21.41.29:534][ 88]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/Map_BuiltDataBDF8C3594F591B06A05A119C313A6461.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset'
+[2021.05.28-21.41.29:551][ 88]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.28-21.41.29:551][ 88]LogContentValidation: Display: Validating World /Game/AnnyGame/Maps/Map.Map
+[2021.05.28-21.41.29:551][ 88]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AnnyGame/Maps/Map_BuiltData.Map_BuiltData
