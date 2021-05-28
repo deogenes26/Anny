@@ -1685,3 +1685,266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.28-07.47.47:086][360]SourceControl:  rewrite Content/AnnyGame/Animacao/codigo/AnnyAnimBP.uasset (83%)
 [2021.05.28-07.47.47:086][360]SourceControl:  rewrite Content/AnnyGame/BluePrints/Anny.uasset (88%)
 [2021.05.28-07.47.47:093][360]SourceControl: Commited [main 049d6b2] ataque adicionado(com direito ao personagem ir pra frente no ataque :D); pula alternando pernas.
+[2021.05.28-07.57.31:204][760]LogEditorTransaction: Undo Move Node
+[2021.05.28-07.57.31:371][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.28-07.57.31:375][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.28-07.58.21:251][639]BlueprintLog: New page: Compile Anny
+[2021.05.28-07.58.21:329][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.05.28-07.58.21:872][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.05.28-07.58.22:013][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/BluePrints/Anny" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/BluePrints/Anny.uasset" SILENT=true
+[2021.05.28-07.58.22:071][678]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AnnyA7575A17425B1246C0CDC7BF0FC89D70.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/BluePrints/Anny.uasset'
+[2021.05.28-07.58.22:085][678]AssetCheck: New page: Asset Save: Anny
+[2021.05.28-07.58.22:085][678]LogContentValidation: Display: Validating Blueprint /Game/AnnyGame/BluePrints/Anny.Anny
+[2021.05.28-07.58.23:176][791]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.28-07.58.23:190][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-07.58.23:190][791]PIE: New page: PIE session: ThirdPersonExampleMap (May 28, 2021, 1:58:23 AM)
+[2021.05.28-07.58.23:190][791]LogPlayLevel: Creating play world package: /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-07.58.23:200][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009786s)
+[2021.05.28-07.58.23:201][791]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.28-07.58.23:201][791]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CB530DD400), frame # 91791
+[2021.05.28-07.58.23:201][791]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CB48BC9E40), frame # 91791
+[2021.05.28-07.58.23:202][791]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2021.05.28-07.58.23:202][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnnyGame/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011782s)
+[2021.05.28-07.58.23:229][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-07.58.23:231][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-07.58.23:231][791]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-07.58.23:231][791]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-07.58.23:236][791]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-07.58.23:236][791]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-07.58.23:261][791]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.05.28-07.58.23:261][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-07.58.23:261][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-07.58.23:261][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-07.58.23:261][791]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-07.58.23:273][791]LogInit: FAudioDevice initialized.
+[2021.05.28-07.58.23:296][791]LogLoad: Game class is 'MyGameMode_C'
+[2021.05.28-07.58.23:301][791]LogWorld: Bringing World /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.28-04.58.23
+[2021.05.28-07.58.23:302][791]LogWorld: Bringing up level for play took: 0.003607
+[2021.05.28-07.58.23:303][791]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.05.28-07.58.23:314][791]PIE: Server logged in
+[2021.05.28-07.58.23:316][791]PIE: Play in editor total start time 0.127 seconds.
+[2021.05.28-07.58.33:692][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-07.58.33:693][ 28]LogWorld: BeginTearingDown for /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-07.58.33:693][ 28]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-07.58.33:693][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-07.58.33:700][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-07.58.33:704][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-07.58.33:730][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-07.58.33:745][ 28]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CB48BC9E40), frame # 93028
+[2021.05.28-07.58.33:745][ 28]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CB530DD400), frame # 93028
+[2021.05.28-07.58.33:748][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.05.28-07.58.33:778][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.05.28-07.59.12:488][873]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2021.05.28-07.59.12:488][873]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.05.28-07.59.30:359][636]BlueprintLog: New page: Compile Anny
+[2021.05.28-07.59.30:430][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.05.28-07.59.31:052][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/BluePrints/Anny" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/BluePrints/Anny.uasset" SILENT=true
+[2021.05.28-07.59.31:112][674]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AnnyA72676964C320BC7457F37A0DB5EBFAE.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/BluePrints/Anny.uasset'
+[2021.05.28-07.59.31:124][674]AssetCheck: New page: Asset Save: Anny
+[2021.05.28-07.59.31:124][674]LogContentValidation: Display: Validating Blueprint /Game/AnnyGame/BluePrints/Anny.Anny
+[2021.05.28-07.59.31:280][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.28-08.00.00:069][281]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight1_Montage.AttackLight1_Montage
+[2021.05.28-08.00.00:073][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.28-08.00.00:126][281]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.05.28-08.00.00:424][281]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.28-08.00.02:326][416]LogSlate: Window 'AttackLight1_Montage' being destroyed
+[2021.05.28-08.00.04:878][629]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.00.04:878][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.00.22:398][406]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.28-08.00.48:316][266]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight2_Montage.AttackLight2_Montage
+[2021.05.28-08.01.32:110][105]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight3_Montage.AttackLight3_Montage
+[2021.05.28-08.02.05:041][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.05.28-08.02.05:182][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/anny7_Skeleton" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/anny7_Skeleton.uasset" SILENT=true
+[2021.05.28-08.02.05:196][282]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/anny7_Skeleton7D05AC0F42D9CBB6D82382BB17251F36.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/anny7_Skeleton.uasset'
+[2021.05.28-08.02.05:206][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/AttackLight1_Montage" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight1_Montage.uasset" SILENT=true
+[2021.05.28-08.02.05:216][282]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AttackLight1_MontageBEC039D748D40F4B8432A8ABC2841F46.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight1_Montage.uasset'
+[2021.05.28-08.02.05:224][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/AttackLight2_Montage" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight2_Montage.uasset" SILENT=true
+[2021.05.28-08.02.05:259][282]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AttackLight2_Montage56826C0641F451B969FC1DA873B8819C.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight2_Montage.uasset'
+[2021.05.28-08.02.05:267][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/AttackLight3_Montage" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight3_Montage.uasset" SILENT=true
+[2021.05.28-08.02.05:277][282]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AttackLight3_Montage0A75E89B47842F7A901FEB9054EA8924.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight3_Montage.uasset'
+[2021.05.28-08.02.05:303][282]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.28-08.02.05:303][282]LogContentValidation: Display: Validating Skeleton /Game/AnnyGame/Animacao/Soanima/anny7_Skeleton.anny7_Skeleton
+[2021.05.28-08.02.05:303][282]LogContentValidation: Display: Validating AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight1_Montage.AttackLight1_Montage
+[2021.05.28-08.02.05:303][282]LogContentValidation: Display: Validating AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight2_Montage.AttackLight2_Montage
+[2021.05.28-08.02.05:303][282]LogContentValidation: Display: Validating AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight3_Montage.AttackLight3_Montage
+[2021.05.28-08.03.20:784][109]BlueprintLog: New page: Compile AnnyAnimBP
+[2021.05.28-08.03.20:844][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.05.28-08.03.26:505][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.05.28-08.03.26:639][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/codigo/AnnyAnimBP" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/codigo/AnnyAnimBP.uasset" SILENT=true
+[2021.05.28-08.03.26:696][683]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AnnyAnimBP75342CCB4ACE8B17A6BC618A524E1E24.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/codigo/AnnyAnimBP.uasset'
+[2021.05.28-08.03.26:712][683]AssetCheck: New page: Asset Save: AnnyAnimBP
+[2021.05.28-08.03.26:712][683]LogContentValidation: Display: Validating AnimBlueprint /Game/AnnyGame/Animacao/codigo/AnnyAnimBP.AnnyAnimBP
+[2021.05.28-08.03.27:698][792]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.28-08.03.27:711][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-08.03.27:711][792]PIE: New page: PIE session: ThirdPersonExampleMap (May 28, 2021, 2:03:27 AM)
+[2021.05.28-08.03.27:742][792]LogPlayLevel: Creating play world package: /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-08.03.27:752][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009606s)
+[2021.05.28-08.03.27:753][792]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.28-08.03.27:753][792]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CB4FCBF600), frame # 119792
+[2021.05.28-08.03.27:753][792]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CB19731F80), frame # 119792
+[2021.05.28-08.03.27:753][792]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2021.05.28-08.03.27:753][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnnyGame/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010976s)
+[2021.05.28-08.03.27:779][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-08.03.27:781][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-08.03.27:781][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-08.03.27:781][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-08.03.27:782][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-08.03.27:785][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-08.03.27:785][792]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-08.03.27:810][792]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.05.28-08.03.27:810][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-08.03.27:810][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-08.03.27:810][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-08.03.27:810][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-08.03.27:811][792]LogInit: FAudioDevice initialized.
+[2021.05.28-08.03.27:827][792]LogLoad: Game class is 'MyGameMode_C'
+[2021.05.28-08.03.27:829][792]LogWorld: Bringing World /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.28-05.03.27
+[2021.05.28-08.03.27:829][792]LogWorld: Bringing up level for play took: 0.000849
+[2021.05.28-08.03.27:829][792]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.05.28-08.03.27:832][792]PIE: Server logged in
+[2021.05.28-08.03.27:833][792]PIE: Play in editor total start time 0.123 seconds.
+[2021.05.28-08.03.51:485][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-08.03.51:485][621]LogWorld: BeginTearingDown for /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-08.03.51:486][621]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.03.51:487][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.03.51:507][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-08.03.51:517][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.03.51:540][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-08.03.51:556][621]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CB19731F80), frame # 122621
+[2021.05.28-08.03.51:556][621]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CB4FCBF600), frame # 122621
+[2021.05.28-08.03.51:559][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.05.28-08.03.51:590][622]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.05.28-08.04.38:407][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/AttackLight3_Montage" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight3_Montage.uasset" SILENT=true
+[2021.05.28-08.04.38:417][ 66]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AttackLight3_Montage427AB0EC4EF25F5D25C5509FA3CEEA0A.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight3_Montage.uasset'
+[2021.05.28-08.04.38:433][ 66]AssetCheck: New page: Asset Save: AttackLight3_Montage
+[2021.05.28-08.04.38:433][ 66]LogContentValidation: Display: Validating AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight3_Montage.AttackLight3_Montage
+[2021.05.28-08.04.39:759][201]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.04.39:759][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.04.39:863][201]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.04.39:863][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.04.41:341][348]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight2_Montage.AttackLight2_Montage
+[2021.05.28-08.04.41:344][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.28-08.04.41:365][348]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.05.28-08.04.41:648][348]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.28-08.05.06:272][102]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.05.06:274][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.05.06:350][102]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.05.06:350][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.05.09:100][365]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight1_Montage.AttackLight1_Montage
+[2021.05.28-08.05.09:103][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.05.28-08.05.09:174][365]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.05.28-08.05.09:449][365]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.05.28-08.05.11:625][543]LogSlate: Window 'AttackLight1_Montage' being destroyed
+[2021.05.28-08.05.29:988][582]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.28-08.05.30:000][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-08.05.30:000][582]PIE: New page: PIE session: ThirdPersonExampleMap (May 28, 2021, 2:05:30 AM)
+[2021.05.28-08.05.30:022][582]LogPlayLevel: Creating play world package: /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-08.05.30:034][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012188s)
+[2021.05.28-08.05.30:035][582]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.28-08.05.30:035][582]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CB7841CE00), frame # 133582
+[2021.05.28-08.05.30:035][582]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CB201FBB00), frame # 133582
+[2021.05.28-08.05.30:036][582]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2021.05.28-08.05.30:036][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnnyGame/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013702s)
+[2021.05.28-08.05.30:074][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-08.05.30:078][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-08.05.30:079][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-08.05.30:079][582]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-08.05.30:079][582]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-08.05.30:083][582]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-08.05.30:083][582]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-08.05.30:107][582]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.05.28-08.05.30:108][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-08.05.30:108][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-08.05.30:108][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-08.05.30:108][582]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-08.05.30:121][582]LogInit: FAudioDevice initialized.
+[2021.05.28-08.05.30:130][582]LogLoad: Game class is 'MyGameMode_C'
+[2021.05.28-08.05.30:131][582]LogWorld: Bringing World /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.28-05.05.30
+[2021.05.28-08.05.30:131][582]LogWorld: Bringing up level for play took: 0.000927
+[2021.05.28-08.05.30:132][582]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.05.28-08.05.30:135][582]PIE: Server logged in
+[2021.05.28-08.05.30:135][582]PIE: Play in editor total start time 0.136 seconds.
+[2021.05.28-08.05.53:333][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-08.05.53:333][357]LogWorld: BeginTearingDown for /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-08.05.53:333][357]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.05.53:334][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.05.53:347][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-08.05.53:356][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.05.53:401][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-08.05.53:401][357]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CB201FBB00), frame # 136357
+[2021.05.28-08.05.53:402][357]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CB7841CE00), frame # 136357
+[2021.05.28-08.05.53:404][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.28-08.05.53:437][358]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.05.28-08.05.56:471][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.28-08.05.56:599][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/AttackLight1_Montage" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight1_Montage.uasset" SILENT=true
+[2021.05.28-08.05.56:609][651]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AttackLight1_Montage69E1B1F0451252751768DAA2C307A710.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight1_Montage.uasset'
+[2021.05.28-08.05.56:619][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Animacao/Soanima/AttackLight2_Montage" FILE="../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight2_Montage.uasset" SILENT=true
+[2021.05.28-08.05.56:629][651]LogSavePackage: Moving '../../../../../../Documents/GitHub/Anny/Saved/AttackLight2_Montage01E263F143911A47FD2113AA6726214A.tmp' to '../../../../../../Documents/GitHub/Anny/Content/AnnyGame/Animacao/Soanima/AttackLight2_Montage.uasset'
+[2021.05.28-08.05.56:646][651]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.28-08.05.56:646][651]LogContentValidation: Display: Validating AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight1_Montage.AttackLight1_Montage
+[2021.05.28-08.05.56:646][651]LogContentValidation: Display: Validating AnimMontage /Game/AnnyGame/Animacao/Soanima/AttackLight2_Montage.AttackLight2_Montage
+[2021.05.28-08.08.10:882][383]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.28-08.08.10:894][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-08.08.10:895][383]PIE: New page: PIE session: ThirdPersonExampleMap (May 28, 2021, 2:08:10 AM)
+[2021.05.28-08.08.10:895][383]LogPlayLevel: Creating play world package: /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-08.08.10:905][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010580s)
+[2021.05.28-08.08.10:907][383]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.28-08.08.10:907][383]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CB767D2600), frame # 137383
+[2021.05.28-08.08.10:907][383]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CB69034F40), frame # 137383
+[2021.05.28-08.08.10:907][383]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2021.05.28-08.08.10:907][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnnyGame/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012125s)
+[2021.05.28-08.08.10:939][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-08.08.10:941][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-08.08.10:941][383]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-08.08.10:941][383]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-08.08.10:945][383]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-08.08.10:945][383]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-08.08.10:969][383]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.05.28-08.08.10:969][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-08.08.10:969][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-08.08.10:970][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-08.08.10:970][383]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-08.08.10:982][383]LogInit: FAudioDevice initialized.
+[2021.05.28-08.08.10:989][383]LogLoad: Game class is 'MyGameMode_C'
+[2021.05.28-08.08.10:990][383]LogWorld: Bringing World /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.05.28-05.08.10
+[2021.05.28-08.08.10:991][383]LogWorld: Bringing up level for play took: 0.000839
+[2021.05.28-08.08.10:991][383]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.05.28-08.08.10:994][383]PIE: Server logged in
+[2021.05.28-08.08.10:995][383]PIE: Play in editor total start time 0.1 seconds.
+[2021.05.28-08.08.20:031][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-08.08.20:031][459]LogWorld: BeginTearingDown for /Game/AnnyGame/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.28-08.08.20:032][459]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-08.08.20:032][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.08.20:039][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-08.08.20:042][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-08.08.20:065][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-08.08.20:082][459]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CB69034F40), frame # 138459
+[2021.05.28-08.08.20:082][459]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CB767D2600), frame # 138459
+[2021.05.28-08.08.20:084][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.05.28-08.08.20:116][460]LogPlayLevel: Display: Destroying online subsystem :Context_46
