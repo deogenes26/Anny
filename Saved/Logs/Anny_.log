@@ -7733,3 +7733,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.24-15.26.29:009][872]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2021.06.24-15.26.30:332][  2]LogSlate: Window 'Message Log' being destroyed
 [2021.06.24-15.26.30:338][  2]LogSlate: Window 'Message Log' being destroyed
+[2021.06.24-15.26.53:847][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.24-15.26.58:014][853]LogSlate: Window 'Save Content' being destroyed
+[2021.06.24-15.26.59:489][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-15.26.59:502][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.06.24-15.26.59:681][ 12]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/MapB375C8FE4570E5CEE8EB52905CBD2004.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap'
+[2021.06.24-15.26.59:806][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map_BuiltData" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset" SILENT=true
+[2021.06.24-15.27.00:082][ 12]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/Map_BuiltData35C84AFE4676F43D188CD89F05207372.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset'
+[2021.06.24-15.27.00:091][ 12]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-15.27.00:091][ 12]LogContentValidation: Display: Validating World /Game/AnnyGame/Maps/Map.Map
+[2021.06.24-15.27.00:091][ 12]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AnnyGame/Maps/Map_BuiltData.Map_BuiltData
+[2021.06.24-15.27.01:119][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-15.27.01:132][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.24-15.27.01:252][123]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/MapF8397B1244A3B3D20E1DC5AACEA1D140.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap'
+[2021.06.24-15.27.01:427][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map_BuiltData" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset" SILENT=true
+[2021.06.24-15.27.01:640][123]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/Map_BuiltData303334E3456EA920343C88AAA6B060C8.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset'
+[2021.06.24-15.27.01:649][123]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-15.27.01:649][123]LogContentValidation: Display: Validating World /Game/AnnyGame/Maps/Map.Map
+[2021.06.24-15.27.01:649][123]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AnnyGame/Maps/Map_BuiltData.Map_BuiltData
+[2021.06.24-15.27.02:121][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-15.27.02:134][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.06.24-15.27.02:254][167]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/MapE994FDBF4F43D38376FF7295ABA39DEF.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap'
+[2021.06.24-15.27.02:427][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map_BuiltData" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset" SILENT=true
+[2021.06.24-15.27.02:639][167]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/Map_BuiltData9708874F4443789837E472B7DE2DADE1.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset'
+[2021.06.24-15.27.02:647][167]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-15.27.02:648][167]LogContentValidation: Display: Validating World /Game/AnnyGame/Maps/Map.Map
+[2021.06.24-15.27.02:648][167]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AnnyGame/Maps/Map_BuiltData.Map_BuiltData
+[2021.06.24-15.27.02:956][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-15.27.02:970][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.24-15.27.03:088][192]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/MapB6E8902047F9B8384082158ECF19AA53.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map.umap'
+[2021.06.24-15.27.03:272][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnyGame/Maps/Map_BuiltData" FILE="C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset" SILENT=true
+[2021.06.24-15.27.03:485][192]LogSavePackage: Moving 'C:/Users/Pedro/Documents/GitHub/Anny/Saved/Map_BuiltData59318E4A4BF9D8EA2F8E438252BB36B4.tmp' to 'C:/Users/Pedro/Documents/GitHub/Anny/Content/AnnyGame/Maps/Map_BuiltData.uasset'
+[2021.06.24-15.27.03:493][192]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-15.27.03:493][192]LogContentValidation: Display: Validating World /Game/AnnyGame/Maps/Map.Map
+[2021.06.24-15.27.03:493][192]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AnnyGame/Maps/Map_BuiltData.Map_BuiltData
