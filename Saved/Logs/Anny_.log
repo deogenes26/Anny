@@ -7767,3 +7767,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.24-15.27.03:493][192]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.24-15.27.03:493][192]LogContentValidation: Display: Validating World /Game/AnnyGame/Maps/Map.Map
 [2021.06.24-15.27.03:493][192]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/AnnyGame/Maps/Map_BuiltData.Map_BuiltData
+[2021.06.24-15.27.29:222][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.24-15.27.31:344][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.24-15.27.31:630][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.24-15.27.31:806][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.24-15.27.31:975][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.24-15.27.32:135][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
